@@ -8,8 +8,7 @@
             <pubDate>Tue, 11 April 2018 10:01:11 -0600</pubDate>
             <enclosure url="https://raw.githubusercontent.com/whatya/ipa_updater/master/ServerExample/2.0/manifest.plist"
                        sparkle:version="40"
-                       sparkle:shortVersionString="2.0" />
-            <!-- <shine:forcedUpdate /> -->
+                       sparkle:shortVersionString="1.0.0" />
         </item>
     </channel>
 </rss>
