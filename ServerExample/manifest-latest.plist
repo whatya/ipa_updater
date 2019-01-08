@@ -14,7 +14,7 @@
 					<string>https://raw.githubusercontent.com/whatya/ipa_updater/master/ServerExample/2.0/bin/crm_prd.ipa</string>
 				</dict>
 			</array>
-<!-- 			<key>metadata</key>
+			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
 				<string>com.pingan.e.fundcrm</string>
@@ -24,7 +24,7 @@
 				<string>software</string>
 				<key>title</key>
 				<string>平安基金</string>
-			</dict> -->
+			</dict>
 		</dict>
 	</array>
 </dict>
