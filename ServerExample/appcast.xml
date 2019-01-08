@@ -14,10 +14,10 @@
             <sparkle:minimumSystemVersion>10.3</sparkle:minimumSystemVersion>
         </item>
         <item>
-            <title>Version 2.0</title>
-            <description>some critial fixes!</description>
+            <title>平安基金2.0</title>
+            <description>APP内更新测试。</description>
             <pubDate>Tue, 11 April 2018 10:01:11 -0600</pubDate>
-            <enclosure url="https://www.supergoodapp.com/app/2.0/manifest.plist"
+            <enclosure url="https://github.com/whatya/ipa_updater/blob/master/ServerExample/2.0/manifest.plist"
                        sparkle:version="40"
                        sparkle:shortVersionString="2.0" />
             <sparkle:minimumSystemVersion>10.3</sparkle:minimumSystemVersion>
