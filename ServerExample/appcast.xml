@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:shine="http://www.eightythreecreative.com/shinens" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <item>
-            <title>1.0.1</title>
+            <pubDate>发布时间（节点必须，内容任意）</pubDate>
             <description>APP内更新测试456</description>
             <enclosure url="https://raw.githubusercontent.com/whatya/ipa_updater/master/ServerExample/2.0/manifest.plist"
                        sparkle:version="40"
